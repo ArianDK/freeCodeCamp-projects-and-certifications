@@ -11,7 +11,7 @@
 ### Certification: https://www.freecodecamp.org/certification/ArianDK/responsive-web-design
 
 ## 08. Scientific Computing with Python ✔
-<img src="https://github.com/ArianDK/freeCodeCamp-projects-and-certifications/blob/f1f223476aa34347612b643655317f0311d81387/img/scientific-computing-with-python.PNG" width="375" align="right"/>
+<img src="https://github.com/ArianDK/freeCodeCamp-projects-and-certifications/blob/5bfc5ae0e788803ce43281080e3b8489312d19de/img/scientific-computing-with-python.PNG" width="375" align="right"/>
 
 - [Build an Arithmetic Formatter Project](./Scientific%20Computing%20with%20Python/0106_arithmetic_formatter_project.py)
 - [Build an Time Calculator Project](./Scientific%20Computing%20with%20Python/0205_time_calculator_project.py)
