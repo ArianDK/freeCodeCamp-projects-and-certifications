@@ -21,8 +21,11 @@
 ### Certification: https://www.freecodecamp.org/certification/ArianDK/scientific-computing-with-python-v7
 
 ## College Algebra with Python ✔ 07/3/2025
+<img src="" width="375" align="right"/>
+
 - [Build a Multi-Function Calculator](./College%20Algebra%20with%20Python/0701_multi_function_calculator.py)
 - [Build a Graphing Calculator](./College%20Algebra%20with%20Python/1201_graphing_calculator.py)
 - [Build Three Math Games](./College%20Algebra%20with%20Python/1401_three_math_games.py)
 - [Build a Financial Calculator](./College%20Algebra%20with%20Python/1801_financial_calculator.py)
 - [Build a Data Graph Explorer](./College%20Algebra%20with%20Python/2001_data_graph_explorer.py)
+### Certification: https://www.freecodecamp.org/certification/ArianDK/college-algebra-with-python-v8
