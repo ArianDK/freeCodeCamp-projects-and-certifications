@@ -18,7 +18,11 @@
 - [Build an Budget App Project](./Scientific%20Computing%20with%20Python/0303_budget_app_project.py)
 - [Build an Polygon Area Calculator Project](./Scientific%20Computing%20with%20Python/0403_polygon_area_calculator_project.py)
 - [Build an Probability Calculator Project](./Scientific%20Computing%20with%20Python/0502_probability_calculator_project.py)
-
 ### Certification: https://www.freecodecamp.org/certification/ArianDK/scientific-computing-with-python-v7
 
 ## College Algebra with Python ✔ 07/3/2025
+- [Build a Multi-Function Calculator](./College%20Algebra%20with%20Python/0701_multi_function_calculator.py)
+- [Build a Graphing Calculator](./College%20Algebra%20with%20Python/1201_graphing_calculator.py)
+- [Build Three Math Games](./College%20Algebra%20with%20Python/1401_three_math_games.py)
+- [Build a Financial Calculator](./College%20Algebra%20with%20Python/1801_financial_calculator.py)
+- [Build a Data Graph Explorer](./College%20Algebra%20with%20Python/2001_data_graph_explorer.py)
