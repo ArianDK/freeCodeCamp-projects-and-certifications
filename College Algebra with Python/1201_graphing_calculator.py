@@ -2,12 +2,10 @@ import matplotlib.pyplot as plt
 import numpy as np
 import random
 import math
-from typing import List, Tuple, Optional
 import tkinter as tk
 from tkinter import ttk, messagebox
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from matplotlib.figure import Figure
-import re
 
 class GraphingCalculator:
     def __init__(self):

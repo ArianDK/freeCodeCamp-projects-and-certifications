@@ -1,6 +1,6 @@
 # FreeCodeCamp Projects & Certificantions
 ![fcc-related-image](https://github.com/ArianDK/freeCodeCamp-projects-and-certifications/blob/f1f223476aa34347612b643655317f0311d81387/img/header.png)
-## 01. Responsive Web Design Certification ✔
+## Responsive Web Design Certification ✔ 12/27/2024
 <img src="https://github.com/ArianDK/freeCodeCamp-projects-and-certifications/blob/f1f223476aa34347612b643655317f0311d81387/img/responsive-web-design-certification.PNG" width="375" align="right"/>
 
 - [Build A Survey Form](./Responsive%20Web%20Design/0105_surveyForm)
@@ -10,7 +10,7 @@
 - [Build A Personal Portfolio Webpage](./Responsive%20Web%20Design/0503_personalPortfolioWebpage/)
 ### Certification: https://www.freecodecamp.org/certification/ArianDK/responsive-web-design
 
-## 08. Scientific Computing with Python ✔
+## Scientific Computing with Python ✔ 04/9/2025
 <img src="https://github.com/ArianDK/freeCodeCamp-projects-and-certifications/blob/5bfc5ae0e788803ce43281080e3b8489312d19de/img/scientific-computing-with-python.PNG" width="375" align="right"/>
 
 - [Build an Arithmetic Formatter Project](./Scientific%20Computing%20with%20Python/0106_arithmetic_formatter_project.py)
@@ -20,3 +20,5 @@
 - [Build an Probability Calculator Project](./Scientific%20Computing%20with%20Python/0502_probability_calculator_project.py)
 
 ### Certification: https://www.freecodecamp.org/certification/ArianDK/scientific-computing-with-python-v7
+
+## College Algebra with Python ✔ 07/3/2025
