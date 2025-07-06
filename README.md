@@ -27,5 +27,5 @@
 - [Build a Graphing Calculator](./College%20Algebra%20with%20Python/1201_graphing_calculator.py)
 - [Build Three Math Games](./College%20Algebra%20with%20Python/1401_three_math_games.py)
 - [Build a Financial Calculator](./College%20Algebra%20with%20Python/1801_financial_calculator.py)
-- [Build a Data Graph Explorer](./College%20Algebra%20with%20Python/2001_data_graph_explorer.py)
+- [Build a Data Graph Explorer](./College%20Algebra%20with%20Python/2001_data_graph_explorer)
 ### Certification: https://www.freecodecamp.org/certification/ArianDK/college-algebra-with-python-v8
